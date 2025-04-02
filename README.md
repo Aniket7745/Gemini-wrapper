@@ -1,4 +1,4 @@
-# Bold Clone
+
 
 This project is a backend application that integrates with the Google Gemini API to generate AI-powered content. It uses Express.js for handling HTTP requests and streams AI-generated responses in real-time.
 
